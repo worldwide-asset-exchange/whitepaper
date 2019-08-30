@@ -2,6 +2,7 @@
 
 
 > **August 30, 2019**
+> **By William Quigley, CEO, WAX | Jonathan Yantis, COO, WAX | Lukas Sliwka, CTO, WAX**
 
 **Abstract**: The WAX Protocol is a DPoS blockchain designed to scale in conjunction with a microservice layer that provides specialized infrastructure for building digital goods marketplaces. The knowledge required to construct interconnected and highly sophisticated marketplace services comes from the team’s 20+ years’ experience building digital goods businesses,  including the hugely successful OPSkins.com. This document describes the WAX Protocol and how it fits within the WAX Platform. The WAX Platform is the combination of both the WAX Protocol and a microservice layer.
 
