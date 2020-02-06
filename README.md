@@ -456,7 +456,7 @@ Due to the GBM program described above, there is a 50% deflation potential from 
 | Token Description                        | Initial Token Supply |
 |------------------------------------------|----------------------|
 | Number of ERC-20 WAX Tokens              | 1.85 billion         |
-| System resources                         | 200,000,000          |
+| System resources                         | 20,000,000           |
 | Pre-minted GBM Tokens for WAX Token Swap | 1.85 billion         |
 | Max. total supply (excluding inflation)  | 3.72 billion         |
 | Min. total supply (excluding inflation)  | 1.87 billion         |
