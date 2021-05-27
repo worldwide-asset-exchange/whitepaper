@@ -862,13 +862,6 @@ The WAX and Animoca Brands partnership drive market adoption of blockchain-based
 Santeria is a fantasy "mini" MMO game where players can explore different locations ranging from castles to wizard towers, fighting arenas, and barns. This game integrates WAX ExpressTrade and allows players to enhance their gameplay experience by purchasing NFTs on OPSkins and using them in the game. Players are automatically equipped with a Magic Hat and Wand, and upgraded equipment in the form of NFTs includes Wizard Staffs and more. 
 
 
-
-<a id="markdown-waxwiki" name="waxwiki"></a>
-
-### [WAX.Wiki](https://www.wax.wiki/home/)
-WAX.Wiki a simple website design created using WAX Creator that lets anyone play games, watch videos, complete surveys, and more to earn collectible cards, stickers, and digital art. These collectibles get stored in their WAX ExpressTrade inventory.
-
-
 There are an additional 100+ sites using WAX ExpressTrade, WAX All Access, WAX Creator and other microservices. 
 
 
